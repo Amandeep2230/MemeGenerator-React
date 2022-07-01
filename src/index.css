@@ -9,7 +9,8 @@ body {
 
 main {
   padding: 36px;
-  margin-left: 7%;
+  margin-left: 10%;
+  width: 80%;
 }
 
 .header {
@@ -62,4 +63,6 @@ main {
   border: none;
   cursor: pointer;
   padding: 5px 80px;
+  width: 50%;
+  max-width: 600px;
 }
